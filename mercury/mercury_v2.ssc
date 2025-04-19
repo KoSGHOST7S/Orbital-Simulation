@@ -1,0 +1,4 @@
+AltSurface "Jim's Mercury V2" "Sol/Mercury"
+{
+	Texture "mercury.*"
+}

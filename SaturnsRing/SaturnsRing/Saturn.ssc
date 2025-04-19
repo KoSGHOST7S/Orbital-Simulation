@@ -1,0 +1,14 @@
+
+Modify "Saturn" "Sol"
+{
+
+	Rings {
+		Inner   66900  # D Ring inner 66,900 outer 74,658 
+		Outer  140225
+		Texture "SatRing.png"
+		}
+	}
+
+
+
+
