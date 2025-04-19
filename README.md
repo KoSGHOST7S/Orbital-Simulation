@@ -38,4 +38,4 @@ A real-time 3D simulation of the solar system built using Python, PyOpenGL, and 
 1. Clone the repository:
    ```
    git clone https://github.com/yourusername/solar-system-sim.git
-   cd solar-system-sim (https://github.com/Lawrencep123/Orbital-Simulation.git)
+   cd solar-system-sim (https://github.com/KoSGHOST7S/Orbital-Simulation.git)
